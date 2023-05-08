@@ -7,3 +7,5 @@ Cowsay Generator for Neovim (written in Lua).
 I like the [Alpha](https://github.com/goolord/alpha-nvim) startup screen for Neovim but it comes without a Cowsay generator (personally, I can live without a Cowsay generator in Neovim, but I guess I like it).
 
 No official config, but it's pretty easy to make the "baloon" wider or narrower (or to remove the "cow" ASCII art, or replace it with different "graphics").
+
+Quotes respectfully borowed from: https://github.com/nvim-treesitter/nvim-treesitter
