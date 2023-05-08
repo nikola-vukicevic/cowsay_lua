@@ -1,6 +1,6 @@
 # cowsay_lua
 
-Cowsay Generator for Neovim (written in Lua).
+Cowsay generator for Neovim (written in Lua).
 
 ![cowsay_generator](https://user-images.githubusercontent.com/39658013/236786887-b4e80fc1-8988-4fd7-bf69-0dd99ecec2b8.png)
 
